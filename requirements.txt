@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+numpy
+pydub
+torch  # Required for transformers/Whisper
